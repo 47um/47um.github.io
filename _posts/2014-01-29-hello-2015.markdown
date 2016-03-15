@@ -1,0 +1,19 @@
+---
+layout:     post
+title:      "Welcome to Atum Blog"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2016-03-18 12:00:00
+author:     "Atum"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - 生活
+---
+
+> “Yeah It's on. ”
+
+
+## 前言
+
+Atum 的 Blog 就这么开通了。
+
+
