@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "十大风云学子求投票"
-subtitle:   "请投李冠成"
+title:      "武汉大学十大风云学子"
+subtitle:   "Need Your Vote"
 date:       2016-03-19 20:00:00
 author:     "Guancheng Li"
 header-img: "img/post-bg-2015.jpg"
@@ -24,4 +24,4 @@ tags:
 <a href="http://topten.ziqiang.studio">投票链接</a>
 </p>
 ---
-Welcome to my Blog
+
