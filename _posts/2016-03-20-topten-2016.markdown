@@ -9,7 +9,9 @@ tags:
     - Life
 ---
 <p>这是李冠成，来自计算机学院12级弘毅班，作为学院代表之一正在参评武汉大学十大风云学子，请大家多多支持</p>
+
 <h3><a href="http://topten.ziqiang.studio">投票链接</a></h3>
+<p>如果链接不work的话请直接复制投票地址 http://topten.ziqiang.studio  </p>
 <h4>主要事迹</h4>
 <p>来自弘毅班，信息安全爱好者，以保卫网络安全为梦想。<br>
 曾任微软俱乐部技术主席，计院青协副主席，参加过十余次志愿活动。获十余次通报表扬。<br>
@@ -22,6 +24,8 @@ tags:
 清华北大深造offer，为追求梦想放弃了阿里 20W＋年薪， 选择去北大网络安全实验室深造。(2015)</p>
 >请各位同学们多多支持~~
 <h3><a href="http://topten.ziqiang.studio">投票链接</a></h3>
+
+<p>如果链接不work的话请直接复制投票地址 http://topten.ziqiang.studio  </p>
 
 ---
 
