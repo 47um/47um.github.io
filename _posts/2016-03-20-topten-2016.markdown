@@ -12,7 +12,7 @@ tags:
 
 <h3><a href="http://topten.ziqiang.studio">投票链接</a></h3>
 <p>如果链接不work的话请直接复制投票地址 http://topten.ziqiang.studio 或者点击右上角，从浏览器打开就可以work啦 </p>
-<p>或者您也可以直接扫描二维码，<img src="http://www.gcli.cn/img/123.png"></img></p>
+<p>或者您也可以直接长按识别二维码，<img src="http://www.gcli.cn/img/123.png"></img></p>
 <h4>主要事迹</h4>
 <p>来自弘毅班，信息安全爱好者，以保卫网络安全为梦想。<br>
 曾任微软俱乐部技术主席，计院青协副主席，参加过十余次志愿活动。获十余次通报表扬。<br>
@@ -27,7 +27,7 @@ tags:
 <h3><a href="http://topten.ziqiang.studio">投票链接</a></h3>
 
 <p>如果链接不work的话请直接复制投票地址 http://topten.ziqiang.studio  或者点击右上角，从浏览器打开就可以work啦</p>
-<p>或者您也可以直接扫描二维码，<img src="http://www.gcli.cn/img/123.png"></img></p>
+<p>或者您也可以直接长按识别二维码，<img src="http://www.gcli.cn/img/123.png"></img></p>
 
 ---
 
