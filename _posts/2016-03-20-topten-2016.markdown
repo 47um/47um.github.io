@@ -9,7 +9,7 @@ tags:
     - Life
 ---
 <h3><a href="http://t.cn/RGeKtlH">投票链接</a></h3>
-<p>如果链接不work的话请直接复制投票地址 http://topten.ziqiang.studio 或http://t.cn/RGeKtlH 或者点击右上角，从浏览器打开就可以work啦 </p>
+<p>如果链接不work的话请直接复制投票地址 http://topten.ziqiang.studio 或者点击右上角，从浏览器打开就可以work啦 </p>
 <p>或者您也可以直接长按识别二维码，<img src="http://www.gcli.cn/img/123.png"></img></p>
 <h3>投票需要在底部输入学号和身份证后六位并提交～</h3>
 <p>这是李冠成，来自计算机学院12级弘毅班，作为学院代表之一正在参评武汉大学十大风云学子，请大家多多支持</p>
@@ -26,7 +26,7 @@ tags:
 >请各位同学们多多支持~~
 <h3><a href="http://t.cn/RGeKtlH">投票链接</a></h3>
 
-<p>如果链接不work的话请直接复制投票地址 http://topten.ziqiang.studio 或http://t.cn/RGeKtlH 或者点击右上角，从浏览器打开就可以work啦</p>
+<p>如果链接不work的话请直接复制投票地址 http://topten.ziqiang.studio  或者点击右上角，从浏览器打开就可以work啦</p>
 <p>或者您也可以直接长按识别二维码，<img src="http://www.gcli.cn/img/123.png"></img></p>
 <h3>投票需要在底部输入学号和身份证后六位并提交～</h3>
 ---
