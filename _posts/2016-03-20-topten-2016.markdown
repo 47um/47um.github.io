@@ -28,10 +28,10 @@ tags:
 清华北大深造offer，为追求梦想放弃了阿里 20W＋年薪， 选择去北大网络安全实验室深造。(2015)</p>
 >请各位同学们多多支持~~谢谢大家
 <p>投票地址可直接长按识别二维码获得</p>
-<img src="http://www.gcli.cn/img/123.png"></img>
-<p style="color: red">
+<img src="http://www.gcli.cn/img/123.png">
+<h3 style="color: red">
 投票需要在底部输入学号和身份证后六位并提交～<br>
 每人每天可以投票一次
-</p>
+</h3>
 ---
 
