@@ -13,7 +13,7 @@ tags:
 <p>或者您也可以直接长按识别二维码，<img src="http://www.gcli.cn/img/vote_new.png"></img></p>
 <h3 style="color: red">
 投票需要在底部输入学号和身份证倒数第7到倒数第2位并提交～<br>
-每人每天可以投票一次
+每人每天可以投票一次，投票地址http://t.cn/RqfOZxI或http://topten.ziqiang.studio/page/vote
 </h3>
 <p>这是李冠成，来自计算机学院12级弘毅班，作为学院代表之一参评武汉大学十大风云学子，现已进入20强，请大家多多支持，谢谢大家</p>
 <h4>主要事迹</h4>
